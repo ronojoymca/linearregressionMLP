@@ -1,0 +1,10 @@
+@relation Ekistics
+
+@attribute temperature numeric
+@attribute dockri numeric
+@attribute sales numeric
+
+
+@data
+
+168.8261862,170, 1000

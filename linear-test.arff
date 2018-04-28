@@ -1,0 +1,14 @@
+@relation icecreamsales.symbolic
+
+@attribute temperature numeric
+@attribute dockri numeric
+@attribute sales numeric
+
+
+@data
+
+114.5565775	120 120.345752
+134.1934863	130 108.553092
+94.7099405 90 193.17481928
+69.50587033	80 91.13700868
+67.17874275	 80 94.61650787
