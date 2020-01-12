@@ -13,7 +13,7 @@ import weka.core.converters.ArffLoader;
 /**
  * This class is used to explain the Linear Regression with Java.
  * 
- * @author Gowtham Girithar Srirangasamy
+ * @author Ranajoy
  *
  */
 public class LinearRegressionDemo {
